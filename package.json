@@ -1,0 +1,22 @@
+{
+  "name": "rc-bug",
+  "version": "0.0.0",
+  "description": "rc-bug ======",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bulkan/rc-bug.git"
+  },
+  "author": "Bulkan Evcimen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bulkan/rc-bug/issues"
+  },
+  "homepage": "https://github.com/bulkan/rc-bug",
+  "dependencies": {
+    "rc": "^0.3.4"
+  }
+}
